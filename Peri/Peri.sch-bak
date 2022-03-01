@@ -1,0 +1,60 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L RFT_Digitalschaltkreise:DS8212D U?
+U 1 1 6208FBF2
+P 5500 2150
+F 0 "U?" H 5500 2717 50  0000 C CNN
+F 1 "DS8212D" H 5500 2626 50  0000 C CNN
+F 2 "" H 5600 1950 50  0001 C CNN
+F 3 "https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175" H 5600 1950 50  0001 C CNN
+	1    5500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS30 U?
+U 1 1 620914D4
+P 2975 1775
+F 0 "U?" H 2975 2300 50  0000 C CNN
+F 1 "74LS30" H 2975 2209 50  0000 C CNN
+F 2 "" H 2975 1775 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS30" H 2975 1775 50  0001 C CNN
+	1    2975 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74LS02 U?
+U 1 1 620926CC
+P 2950 2850
+F 0 "U?" H 2950 3175 50  0000 C CNN
+F 1 "74LS02" H 2950 3084 50  0000 C CNN
+F 2 "" H 2950 2850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ls02" H 2950 2850 50  0001 C CNN
+	1    2950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx_IEEE:7404 U?
+U 1 1 62094260
+P 7600 2250
+F 0 "U?" H 7600 2716 50  0000 C CNN
+F 1 "7404" H 7600 2625 50  0000 C CNN
+F 2 "" H 7600 2250 50  0001 C CNN
+F 3 "" H 7600 2250 50  0001 C CNN
+	1    7600 2250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

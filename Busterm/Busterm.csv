@@ -1,0 +1,15 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"J1001";"PinHeader_2x20_P2.54mm_Vertical";1;"Conn_02x20_Odd_Even";;;
+2;"C1001";"C_Disc_D3.0mm_W2.0mm_P2.50mm";1;"10pF";;;
+3;"C1002,C1003,C1004,C1005,C1006,C1007,C1008,C1009,C1010,C1011,C1012,C1013,C1014,C1015,C1016,C1017,C1018,C1019,C1020,C1021";"CP_Radial_D4.0mm_P2.00mm";20;"2,2µ/25V";;;
+4;"C1022";"CP_Radial_D5.0mm_P2.50mm";1;"100µ/16V";;;
+5;"D1001,D1002";"D_DO-15_P2.54mm_Vertical_AnodeUp";2;"SAY12";;;
+6;"Q1001";"TO-92_Inline";1;"BC327";;;
+7;"Q1002";"TO-92_Inline";1;"BC547";;;
+8;"Q1003";"TO-126-3_Vertical";1;"BD137";;;
+9;"Q1004";"TO-126-3_Vertical";1;"BD138";;;
+10;"R1001";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"2K2";;;
+11;"R1002,R1003";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"10K";;;
+12;"RN1001,RN1002,RN1003,RN1004";"R_Array_SIP10";4;"270";;;
+13;"RV1001";"Potentiometer_Piher_PT-10-H01_Horizontal";1;"1K";;;
+14;"U1001";"DIP-6_W7.62mm";1;"B761D";;;
